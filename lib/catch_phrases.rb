@@ -9,5 +9,6 @@ def toadstool
 end
 
 def any_phrase(phrase)
+  phrase = phrase
   puts phrase
 end
