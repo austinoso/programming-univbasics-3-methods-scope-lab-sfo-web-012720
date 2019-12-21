@@ -9,5 +9,6 @@ def toadstool
 end
 
 def any_phrase(phrase)
-  puts phrase + "Test"
+  puts phrase
+  puts "It's Dangerous To Go Alone! Take This."
 end
